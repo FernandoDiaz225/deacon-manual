@@ -10,21 +10,22 @@ from diagrams import POSITIONS_MAP_SVG
 USHER_SCHEDULE = [
     ("1","Backdoor"),("1A","Platform South Side"),("1B","Platform North Side"),
     ("2","Altar area &#8212; lead position"),("3","Altar area &#8212; assistant"),
-    ("4","Middle aisle"),("5","Bro. Paul&#8217;s section"),("6","Bro. Bernie&#8217;s section"),
-    ("7","Mid section &#8212; Pastor side"),("8","Mid section &#8212; Bro. Paul side"),
+    ("4","Middle aisle"),("5","South-side section"),("6","North-side section"),
+    ("7","Mid section &#8212; north side"),("8","Mid section &#8212; south side"),
     ("9","North side exit"),("10","South side exit"),("11","Additional seating section"),
     ("12","Team Leader for Sanctuary"),("13","Gatekeeper to Sanctuary"),
     ("14","Vestibule"),("15","Vestibule"),("16","Vestibule"),("17","Team Leader for Program"),
     ("18","Team Leader for Parking Area"),("19","Parking area"),("20","Parking area"),
     ("21","Parking area"),("22","Team Leader for Vestibule"),
     ("23","Program Coordinator &#8212; Back Office"),("24","Liaison &#8212; Back Office"),
-    ("25","Back Office"),("26","Back Office"),("27","BGG (reserved seating)"),
-    ("28","PGG Jr. (reserved seating)"),("29","Video Assistant"),("30+","Substitute"),
+    ("25","Back Office"),("26","Back Office"),("27","&lt;Pastor&gt; (reserved seating)"),
+    ("29","Video Assistant"),("30+","Substitute"),
 ]
 RESERVED = [
-    ("BGG","Bernie G. Garcia"),("PGG Jr.","Paul Garcia Jr."),
-    ("EGB","Ernie G. Borunda"),("JGA","John G. Alvarado"),
-    ("JO","Joshua O&#8217;Campo Sr."),("ER","Lalo Ruiz"),("AGBJr.","Alex G. Borunda Jr."),
+    ("&lt;Pastor&gt;","Pastor &#8212; seat vacant"),
+    ("&lt;Associate Pastor&gt;","Associate Pastor &#8212; seat vacant"),
+    ("&lt;Deacon&#8217;s Director&gt;","Deacon&#8217;s Director &#8212; seat vacant"),
+    ("&lt;Secretary&gt;","Secretary"),
 ]
 
 def usher_schedule_table():
@@ -39,8 +40,8 @@ def usher_schedule_table():
   <table class="tbl"><thead><tr><th style="width:64pt;text-align:center">Position #</th>
   <th>Position Description</th></tr></thead><tbody>{rows}</tbody></table>
   <h3 class="import-h">Reserved Seating &#8212; Key</h3>
-  <table class="tbl"><thead><tr><th style="width:80pt;text-align:center">Initials</th>
-  <th>Name</th></tr></thead><tbody>{legend}</tbody></table>'''
+  <table class="tbl"><thead><tr><th style="width:90pt;text-align:center">Reserved seat</th><th>Office</th>
+  </tr></thead><tbody>{legend}</tbody></table>'''
 
 def positions_extras():
     return f'''

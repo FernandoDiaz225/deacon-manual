@@ -33,7 +33,7 @@ COMMUNION = '''
       Ruiz about access to the Voice of Restoration building a few hours before service, so the basins can be
       filled with water and the chairs set up. This is not Brother Ruiz&#8217;s responsibility &#8212; we need
       to protect and help him by taking care of it.</li>
-    <li>Normally, Elder Joshua and Sister Margarita Ocampo bake the bread for communion and have the
+    <li>Normally, Brother &lt;name&gt; and Sister &lt;name&gt; bake the bread for communion and have the
       wine ready. A deacon should always confirm one week in advance that they will be baking the bread and
       have enough wine on hand. Usually the Secretary of Phoenix Tabernacle will buy more wine if needed.
       The wine we use is made by orthodox Jews and the label bears a Jewish priest; it is made to celebrate
@@ -107,7 +107,7 @@ COMMUNION = '''
     <li>When everyone has taken communion, four deacons or elders will help serve the bread and wine to
       the four elders who served the congregation.</li>
     <li>Once everyone has taken communion, the leftover bread and wine are returned to the
-      Pastor&#8217;s Office. The room is then vacated for the Senior Pastor and Elder Joshua Ocampo. The
+      Pastor&#8217;s Office. The room is then vacated for the Senior Pastor. The
       elders who served communion exit the church and head to the VOR building for foot-washing. A deacon
       stands guard at the Pastor&#8217;s Office to ensure no one enters while foot-washing takes place; keep
       the door closed so that the sisters and the young men coming out of the Video room cannot look in.</li>
@@ -280,8 +280,7 @@ FUNERAL = '''
     <li>Two individuals will stand next to the coffin (one at each end). They may be selected from the
       elders, deacons, ministry, or family members. Once selected, submit the names to the pastor for
       approval. No one stands next to the coffin until the pastor has approved the selection.</li>
-    <li>Reserved seating is permitted for the bereaved family, the pastor and his wife, and Mr.&nbsp;&amp;
-      Mrs.&nbsp;Paul&nbsp;G.&nbsp;Garcia&nbsp;Jr.</li>
+    <li>Reserved seating is permitted for the bereaved family and the pastor and his wife.</li>
     <li>Find someone who knows the family to serve as a point of reference when seating people. If no
       deacon knows the family, ask a family member to help identify family members in the vestibule.</li>
     <li>If a deacon arrives late but still wishes to help, assign him to a non-critical position; otherwise it

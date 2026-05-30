@@ -17,7 +17,7 @@ COVER = '''
       <span class="ref">Proverbs 20:6&#8211;7</span></div>
   </div>
   <div class="foot">
-    <div class="pastor">Pastor Bernie G. Garcia</div>
+    <div class="pastor">Pastor: &lt;Pastor&gt;</div>
     <div class="org">1241 East Baseline &#183; Phoenix, AZ 85040 &#183; Office 602-276-6069</div>
     <div class="ed">Second Edition &#183; August 2007</div>
   </div>
@@ -29,7 +29,7 @@ NOTICE = '''
     <div class="eyebrow">Phoenix Tabernacle Deacon Manual</div>
     <h1 class="section-title" style="font-size:19pt">Principles of Deaconship</h1>
     <div class="title-rule"></div>
-    <p class="muted">Pastor Bernie G. Garcia &#183; Phoenix Tabernacle, Inc.<br>
+    <p class="muted">Pastor: &lt;Pastor&gt; &#183; Phoenix Tabernacle, Inc.<br>
        1241 East Baseline, Phoenix, AZ 85040-8005<br>
        Office: 602-276-6069 &#183; 602-276-0081 &#183; Fax: 602-304-1621<br>
        Second Edition &#8212; August 2007</p>
