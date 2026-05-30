@@ -260,7 +260,7 @@ QUAL = '''
   office.&#8217; Within a few weeks, God willing, I will return back to lay hands upon this group of men to
   make them the official trustee&#8212;or the deacons of this church, and treasurer. Let us bow our heads
   just a moment.&#8221;
-  <span class="qsrc">Placing of Deacons &#183; Jeff. in C.O.D. 58-0720E &#183; para. 358-31</span></div>
+  <span class="qsrc">58-0720E &#183; The Placing Of Deacons &#183; Rev. William Marrion Branham &#183; para. 31</span></div>
 </section>'''
 
 # ============================================================ REWARDS ========
@@ -276,13 +276,8 @@ REWARDS = '''
   man, and with &#8220;boldness in the faith.&#8221; This offer, though simply stated, carries immense
   benefit &#8212; for what is a servant of God without a good testimony? A faithful deacon will gain the
   confidence and trust of the people, and the approval of God.</p>
-  <div class="quote">&#8220;Lord, we are happy tonight that there is men still living on the earth that can
-  walk godly before the world, so godly that a Tabernacle, with strict rules as this one has, can vote five
-  men into position as their leaders without one vote contrary. We are happy for them, and we feel that
-  You were with us in making these decisions, the board and we pastors. God, bless these men. And may
-  they serve this office with all their hearts, knowing that it is purchasing to them a great degree in
-  heaven&#8230; In Jesus&#8217; Name we thank You for them. Amen.&#8221;
-  <span class="qsrc">Placing of Deacons &#183; Bro. William Branham &#183; July 20, 1958 &#183; para. 358-32</span></div>
+  <div class="quote">&#8220;Lord, we are happy tonight that there is man still living on the earth that can walk godly before the world; so godly that a tabernacle, with strict rules as this one has, can vote five man into position as their leaders, without one vote contrary. We are happy for them, and we feel that You were with us in making these decisions, the board and we pastors. God, bless these man. And may they serve this office with all their heart, knowing that it is purchasing to them a great degree in Heaven. Someday when the Books of Heaven shall be closed, may the Book of the celestial beings and in the great Book of Heaven be opened, may their names be one hundred percent before God and the Saviour and all the Heavenly hosts, to be the same in His Kingdom. Bless them, Lord, and may they serve this office well. In Jesus&#8217; Name we thank You for them. Amen.&#8221;
+  <span class="qsrc">58-0720E &#183; The Placing Of Deacons &#183; Rev. William Marrion Branham &#183; para. 32&#8211;33</span></div>
 </section>'''
 
 # ============================================================ MISSION ========
@@ -307,17 +302,10 @@ USHERS = '''
   <div class="eyebrow">The Office &amp; the Calling</div>
   <h1 class="section-title">Ushers &amp; Deacons</h1>
   <div class="title-rule"></div>
-  <div class="quote">&#8220;I used to be&#8212;when I was here, I was the pastor, I was the song leader, I
-  took up the offerings, I paid the debts, I was the janitor, and I was the carpenter, and I just cleaned the
-  ashes out of the stove, and just done whatever come along to be done&#8230; And I&#8217;m very happy
-  for this little old structure tonight. And it&#8217;s certainly like a birthplace to me&#8230; but it&#8217;s
-  home, and I feel very comfortable.&#8221;
-  <span class="qsrc">Israel in Egypt &#183; Bro. William Branham &#183; March 25, 1953</span></div>
-  <div class="quote">&#8220;Like you was a little boy&#8212;say, my business is just to chop the wood, not
-  pack it in. Let John pack it in&#8230; No! It&#8217;s your duty as a child of that home to see that that
-  wood don&#8217;t get wet for your mother&#8230; that&#8217;s just the way it runs, and that&#8217;s the
-  way it runs in God&#8217;s family too.&#8221;
-  <span class="qsrc">Taking Sides with Jesus &#183; Bro. William Branham &#183; June 1, 1962</span></div>
+  <div class="quote">&#8220;And I&#8217;m going to lay this really home. I used to be, when I was here, I was the pastor, I was the song leader, I took up the offerings, I paid the debts, I was the janitor, and I was the carpenter, and I just cleaned the ashes out of the stove, and done whatever come along to be done. Then worked at the Public Service Company on the side. Seventeen years of that, I was here. And I&#8217;m very happy for this little old structure tonight. And it&#8217;s certainly like a birthplace to me. Not very elaborate, but it&#8217;s not so gigantic; but it&#8217;s home, and I feel very comfortable. And I&#8217;m so happy for it.&#8221;
+  <span class="qsrc">53-0325 &#183; Israel And The Church #1 &#183; Rev. William Marrion Branham &#183; para. 3</span></div>
+  <div class="quote">&#8220;Just like you&#8217;d say, &#8216;Well, my&#8230;&#8217; Like you was a little boy, say, &#8216;My&#8212;my business is just to chop the wood, not pack it in. Let John pack it in. I don&#8217;t care if snow falls on it, rain. Let him get out and get it.&#8217; No. It&#8217;s your duty as a&#8212;as a child of that home to see that that wood don&#8217;t get wet, for your mother. See? Pack it in.&#8221;
+  <span class="qsrc">62-0601 &#183; Taking Sides With Jesus &#183; Rev. William Marrion Branham &#183; para. 14</span></div>
 </section>'''
 
 # ============================================================ MINISTER =======
@@ -326,16 +314,10 @@ MINISTER = '''
   <div class="eyebrow">The Office &amp; the Calling</div>
   <h1 class="section-title">What Is a Minister?</h1>
   <div class="title-rule"></div>
-  <div class="quote">&#8220;I am a servant to the public, a public servant&#8212;is a minister, serve the
-  public. To be the underdog, to take these knocks and drives of the public, whatever it is, stand there.
-  And if you haven&#8217;t got grace enough to smile and take it, then you ought to go back to Calvary
-  and reconfirm your commission.&#8221;
-  <span class="qsrc">Why Cry? Speak! &#183; Bro. William Branham &#183; October 4, 1959</span></div>
-  <div class="quote">&#8220;The preacher is a public servant. He just holds himself there, like a lily of the
-  field&#8230; He toils day and night to keep his radiance. And the Gospel minister does the same thing.
-  Walks in the line of God. Holds his testimony true, that the world might partake of him&#8230; Jesus
-  said, consider him.&#8221;
-  <span class="qsrc">The Kinsman Redeemer &#183; Bro. William Branham &#183; October 2, 1960</span></div>
+  <div class="quote">&#8220;And I&#8212;I say this, that I believe that this great Spirit that&#8217;s among us is the Holy Spirit. I believe that He called me for this purpose. Doesn&#8217;t make me any more than the man that got saved this morning; just your servant, your brother. Makes me less than you, because I&#8217;m sent to serve you. I am a servant to the public. A public service, is a minister; to serve the public, to be the underdog, to take this knocks and brawls of the public. Whatever it is, stand there. And if you haven&#8217;t got grace enough to smile and take it, then you ought to go back to Calvary and reconfirm your commission. That&#8217;s what you&#8217;re supposed to do.&#8221;
+  <span class="qsrc">59-1004E &#183; Why Cry? Speak! &#183; Rev. William Marrion Branham &#183; para. 193&#8211;194</span></div>
+  <div class="quote">&#8220;The preacher is a public servant. He just holds himself there. Like a lily of the field, the bumble bee flies in, get his part. The honey bee flies and gets his. The bypasser gets his, and everything. He toils, day and night, to keep his radiance. And the Gospel minister does the same thing, walks in the line of God, holds his testimony true, that the world might partake of him, see, Mr. Pastor Lily. He&#8217;s a good one. Jesus said, &#8216;Consider him. Solomon is not like him.&#8217; That&#8217;s right. Dr. Lily, I guess you all know him. See?&#8221;
+  <span class="qsrc">60-1002 &#183; The Kinsman Redeemer &#183; Rev. William Marrion Branham &#183; para. 190</span></div>
 </section>'''
 
 # ============================================================ ARENA ==========

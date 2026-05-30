@@ -128,17 +128,17 @@ def teaching(a, b, title, anchor, eyebrow, intro=None, note=None):
     return "\n".join(parts)
 
 # --------- imported section instances (line ranges from layout extraction) -----
-PLACING      = lambda: transcript(701, 1016, "Placing of Deacons",
-                    "by Bro. William Marrion Branham &#183; July 20, 1958 &#183; Jeff. IN (C.O.D.)",
+PLACING      = lambda: transcript(701, 1016, "The Placing Of Deacons",
+                    "58-0720E &#183; Rev. William Marrion Branham &#183; Jeff. IN",
                     "s-placing", "Part Two &#183; The Message Foundation")
 COD_SUPP     = lambda: transcript(1017, 1427, "Church Order &#8212; COD Supplement",
-                    "by Bro. William Marrion Branham &#183; October 6, 1958",
+                    "58-1007 &#183; Rev. William Marrion Branham",
                     "s-codsupp", "Part Three &#183; Church Order")
 CHURCHORDER63= lambda: transcript(3653, 5346, "Church Order &#8212; 1963-1226",
-                    "by Bro. William Marrion Branham &#183; December 26, 1963 &#183; Jeff. IN (C.O.D.)",
+                    "63-1226 &#183; Rev. William Marrion Branham &#183; Jeff. IN",
                     "s-co63", "Part Two &#183; The Message Foundation")
-RESPONS      = lambda: transcript(1442, 3135, "Responsibilities of a Deacon",
-                    "from Church Order, with questions and answers &#183; by Bro. William Marrion Branham &#183; December 26, 1963",
+RESPONS =      lambda: transcript(1442, 3135, "Responsibilities of a Deacon",
+                    "A topical compilation from the messages of Rev. William Marrion Branham",
                     "s-respons", "Part Two &#183; The Message Foundation")
 GUIDELINES   = lambda: teaching(5347, 6153, "Guidelines for Deacon Department Positions",
                     "s-positions", "Part Three &#183; Church Order",

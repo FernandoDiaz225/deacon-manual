@@ -29,9 +29,8 @@ COMMUNION = '''
 
   <h2 class="sub">Preparation &amp; Service</h2>
   <ol class="steps">
-    <li>At least a couple of days before the communion service, a deacon should contact Brother Eleazar
-      Ruiz about access to the Voice of Restoration building a few hours before service, so the basins can be
-      filled with water and the chairs set up. This is not Brother Ruiz&#8217;s responsibility &#8212; we need
+    <li>At least a couple of days before the communion service, a deacon should contact Brother &lt;name&gt; about access to the Voice of Restoration building a few hours before service, so the basins can be
+      filled with water and the chairs set up. This is not Brother &lt;name&gt;&#8217;s responsibility &#8212; we need
       to protect and help him by taking care of it.</li>
     <li>Normally, Brother &lt;name&gt; and Sister &lt;name&gt; bake the bread for communion and have the
       wine ready. A deacon should always confirm one week in advance that they will be baking the bread and
@@ -631,10 +630,8 @@ COUNSEL = '''
     <div class="ag"><div class="agk">Who</div><div class="agv">The assigned counselor(s), under the pastor.</div></div>
     <div class="ag"><div class="agk">When</div><div class="agv">When a member seeks counsel or a conflict must be resolved.</div></div>
   </div>
-  <div class="quote">&#8220;I&#8217;m your brother, standing as your brother, an intercessor, trying my
-  best to hold you before God&#8230; speaking through His Name that it&#8217;s done. It has to happen&#8230;
-  You know it&#8217;s happened. I know it&#8217;s happened&#8230; That&#8217;s right. Amen.&#8221;
-  <span class="qsrc">Perfect Faith &#183; Bro. William Branham &#183; Jeff. IN 63-0825E</span></div>
+  <div class="quote">&#8220;I&#8217;m your brother, standing as your brother, an intercessor, trying my best to hold you before God. And I&#8217;m standing here right before the White Throne now, and staking that&#8230;pointing my finger to that bloody Sacrifice there, and speaking through His Name that it&#8217;s done. It has to happen, and it has to happen. You know it&#8217;s happened. I know it&#8217;s happened, so do you know it&#8217;s happened, and it&#8217;s so. That&#8217;s right. Amen. Sweetest carol ever sung, O Jesus, blessed Jesus. Sweetest note in seraph song, Sweetest Name on mortal tongue, Sweetest carol ever sung, Jesus, blessed Jesus.&#8221;
+  <span class="qsrc">63-0825E &#183; Perfect Faith &#183; Rev. William Marrion Branham &#183; para. 219</span></div>
 
   <h2 class="sub">Conflict</h2>
   <p>The majority of the cases we deal with at Phoenix Tabernacle involve some type of conflict. Conflict
@@ -672,10 +669,8 @@ COUNSEL = '''
   speak, slow to wrath.&#8221;<span class="ref">James 1:19</span></div>
   <div class="scripture">&#8220;He that answereth a matter before he heareth it, it is folly and shame unto
   him.&#8221;<span class="ref">Proverbs 18:13</span></div>
-  <div class="quote">&#8220;If you want something of God, ask Him, then stand still and listen to see what
-  He&#8217;s going to say about it. Just open up your heart&#8230; If He doesn&#8217;t answer today, then
-  He will answer tomorrow&#8230; Stay there till He answers. Hear His voice speak back in your heart.&#8221;
-  <span class="qsrc">Hear His Voice &#183; Bro. William Branham &#183; Jeff. IN 58-1005M</span></div>
+  <div class="quote">&#8220;It&#8217;ll make a different man and woman out of you, if you&#8217;ll just stand still long enough to hear His Voice, like Samuel did. Stand still. Don&#8217;t be excited. If you want something of God, ask Him; then stand still and listen, see what He&#8217;s going to say about it. Just open up your heart, say, &#8216;What about it, Lord Jesus?&#8217; Just stay there. If He doesn&#8217;t answer the first five hours, then wait another. If He doesn&#8217;t answer today, then He&#8217;ll answer tomorrow. If He doesn&#8217;t answer this week, He will next week. Stay there till He answers. Hear His Voice speak back, in your heart, and say, &#8216;Yes, I&#8217;m the Lord that healeth thee.&#8217; Then it&#8217;s all over. You can settle then. See? &#8216;I&#8217;m the Lord Who forgives all thy sins. Now go and sin no more. I don&#8217;t condemn you.&#8217; Then you can go free. You&#8217;re all right. But you want to be sure that you heard that Voice speak. Moses heard It. He was a changed man.&#8221;
+  <span class="qsrc">58-1005M &#183; Hear His Voice &#183; Rev. William Marrion Branham &#183; para. 94&#8211;95</span></div>
 </section>
 
 <section id="s-counsel-rules" class="cont">

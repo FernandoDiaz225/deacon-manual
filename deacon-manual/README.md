@@ -1,3 +1,19 @@
+Open for next chat — confirm Table title + paragraph range:
+
+56-0527 "At Kadesh Barnea" — Two Opinions (title needs Table confirmation)
+61-0112 Questions and Answers — In the Line of Duty
+57-0909 "Hebrews" — Handling a Complaint and Do Not Send the Pastor (Hebrews series, real title unknown)
+57-0915 "Hebrews" — Keep Your Eyes on Christ (real title unknown)
+63-1226 Church Order — the deacon Q&A excerpts in Responsibilities (884- tags), para ranges
+63-0317M God Hiding — A Place of Worship + God's Commission, paras 25–53
+
+Not sermons: Fasting is dictionary/Bible-reference text; the Confronting… sub-sections are 1 Timothy 5 framing (verify whether any Branham excerpt is buried in them).
+Recommendations for next chat
+
+Rebuild Responsibilities of a Deacon as a proper anthology — sub-headings + per-excerpt Table citations (code · title · Rev. · para range), defs and scripture kept as framing.
+Fix _PMARK so it golds the E-62 (no leading digit) and 884-Q-222 (length-guard) tag forms.
+You still owe me para 31 full text for the QUAL Placing quote, and a decision on the COD Supplement (expand to the full paras 3–67?).
+The two Eagle Computing → VGR bibliography lines at the end (waiting on your wording), plus optional cleanup of the =s → 's / 8 → © extraction artifacts.
 # Phoenix Tabernacle Deacon Manual
 
 A print-ready PDF of the Deacon Manual, generated from Python + HTML/CSS and
