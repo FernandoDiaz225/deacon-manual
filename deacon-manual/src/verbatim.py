@@ -5,6 +5,7 @@ rejoins wrapped lines). No words are changed -- these sections are preserved
 as printed in the 2007 edition."""
 import re
 from pathlib import Path
+from placing_edits import _enrich_placing
 
 SRC = Path(__file__).resolve().parent.parent / "data" / "deacon_en.txt"
 _LINES = open(SRC, encoding="utf-8", errors="replace").read().split("\n")
@@ -128,9 +129,9 @@ def teaching(a, b, title, anchor, eyebrow, intro=None, note=None):
     return "\n".join(parts)
 
 # --------- imported section instances (line ranges from layout extraction) -----
-PLACING      = lambda: transcript(701, 1016, "The Placing Of Deacons",
+PLACING      = lambda: _enrich_placing(transcript(701, 1016, "The Placing Of Deacons",
                     "58-0720E &#183; Rev. William Marrion Branham &#183; Jeff. IN",
-                    "s-placing", "Part Two &#183; The Message Foundation")
+                    "s-placing", "Part Two &#183; The Message Foundation"))
 COD_SUPP     = lambda: transcript(1017, 1427, "Church Order &#8212; COD Supplement",
                     "58-1007 &#183; Rev. William Marrion Branham",
                     "s-codsupp", "Part Three &#183; Church Order")

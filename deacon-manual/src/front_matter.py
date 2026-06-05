@@ -14,12 +14,12 @@ COVER = '''
     <div class="crule"></div>
     <div class="epi">&#8220;Most men will proclaim every one his own goodness: but a faithful
       man who can find? The just man walketh in his integrity: his children are blessed after him.&#8221;
-      <span class="ref">Proverbs 20:6&#8211;7</span></div>
+      <span class="ref">Proverbs 20:6&#8211;7 &#183; KJV</span></div>
   </div>
   <div class="foot">
     <div class="pastor">Pastor: &lt;Pastor&gt;</div>
     <div class="org">1241 East Baseline &#183; Phoenix, AZ 85040 &#183; Office 602-276-6069</div>
-    <div class="ed">Second Edition &#183; August 2007</div>
+    <div class="ed">Third Edition &#183; August 2027</div>
   </div>
 </div>'''
 
@@ -32,7 +32,8 @@ NOTICE = '''
     <p class="muted">Pastor: &lt;Pastor&gt; &#183; Phoenix Tabernacle, Inc.<br>
        1241 East Baseline, Phoenix, AZ 85040-8005<br>
        Office: 602-276-6069 &#183; 602-276-0081 &#183; Fax: 602-304-1621<br>
-       Second Edition &#8212; August 2007</p>
+       Third Edition &#8212; August 2027<br>
+       Twentieth-anniversary edition &#8212; twenty years after the Second Edition of August 2007</p>
   </div>
   <div class="notice">
     <div class="nh">For Internal Use Only</div>
@@ -114,3 +115,29 @@ def toc():
     return "\n".join(out)
 
 print("part1 module loaded")
+
+EPIGRAPH = '''
+<section id="s-epigraph" class="epigraph-page">
+  <div class="epi-kicker">El Mundo Es Mi P&#250;lpito &#183; The World Is My Pulpit</div>
+
+  <div class="epi-block">
+    <p class="epi-quote">&#8220;And I, thirty-one years I&#8217;ve stood behind the desk here, and
+    around the world, as I have claimed the world to be my pulpit. Then, I have tried to give people
+    this Word of Eternal Life. And it&#8217;s the only thing that can help when you come to the end of
+    the road. So why would we trust in anything else?&#8221;</p>
+    <p class="epi-src">61-1001E &#183; The Comforter &#183; Rev. William Marrion Branham &#183; para. 12</p>
+  </div>
+
+  <div class="epi-div"><span></span><span class="d"></span><span></span></div>
+
+  <div class="epi-block">
+    <p class="epi-quote es">&#8220;Pero el profeta le est&#225; hablando a toda la Simiente predestinada
+    a la cual Dios lo envi&#243; a &#233;l porque &#233;l dijo: &#8216;El mundo es mi p&#250;lpito&#8217;.
+    Am&#233;n. El profeta dijo as&#237;, de modo que si nosotros estamos traduciendo lo que &#233;l dijo
+    y repitiendo lo que &#233;l dijo al castellano, no es nuestro p&#250;lpito aqu&#237; en Phoenix; el
+    mundo entero que entiende el castellano es nuestro p&#250;lpito y para ellos tambi&#233;n es la
+    ense&#241;anza.&#8221;</p>
+    <p class="epi-src">Ap&#243;stol Bernab&#233; Gonz&#225;lez Garc&#237;a &#183; pastor fundador &#183;
+    El Orden B&#237;blico de la Iglesia, 1973</p>
+  </div>
+</section>'''

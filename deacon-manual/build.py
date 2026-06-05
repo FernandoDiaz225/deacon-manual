@@ -95,7 +95,8 @@ def toc():
     return "\n".join(out)
 
 # ---- assemble ----------------------------------------------------------------
-front = COVER + NOTICE + ABOUT + toc()
+from front_matter import EPIGRAPH
+front = COVER + NOTICE + ABOUT + EPIGRAPH + toc()
 
 part1 = part_divider("One", "Day to Day",
     "The deacon&#8217;s calling, qualifications, and the service procedures used week to week "

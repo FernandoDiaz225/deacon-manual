@@ -9,7 +9,7 @@ OFFICES = '''
   <div class="title-rule"></div>
   <p class="lead">As were recommended by Rev.&nbsp;William&nbsp;Marrion&nbsp;Branham for the Branham Tabernacle.</p>
   <p class="attrline">Pastor &#8212; Rev. William Branham &#183; Associate Pastor &#8212; Rev. Armand Neville</p>
-  <p class="note-inline">Agreement and operation of offices &#8212; reproduced verbatim from the 2007 edition.</p>
+  <p class="note-inline">Agreement and operation of offices.</p>
   <p>The following agreements and the operations of the present offices in power at the Branham
   Tabernacle are compiled below. It is to enlighten the present members who now attend the worship
   services at the Branham Tabernacle; as to the proper function of each office. That we may agree as one
@@ -101,32 +101,47 @@ DEFMANUAL = '''
   <div class="eyebrow">The Office &amp; the Calling</div>
   <h1 class="section-title">Definition of a Manual</h1>
   <div class="title-rule"></div>
-  <p class="note-inline">The following definitions are reproduced verbatim from their sources.</p>
+  <p class="lead">A manual is a small, portable handbook &#8212; a ready reference meant to be carried and
+  used. In the life of the Church the word carries an older and richer weight, one this manual is named to
+  honor.</p>
+
+  <h3 class="import-h">WordNet 1.6</h3>
   <div class="defs">
     <div class="def"><span class="term">Manual</span> <span class="body">&#8212; a small handbook.</span></div>
     <div class="def"><span class="term">Consuetudinary, consuetudinal</span> <span class="body">&#8212; a
-      manual describing the customs of a particular group (especially the ceremonial practices of a monastic
-      order).</span></div>
-    <div class="def"><span class="term">Instruction manual, instructions, book of instructions, operating
-      instructions</span> <span class="body">&#8212; a manual usually accompanying a technical device and
-      explaining how to install or operate it.</span></div>
-    <div class="def"><span class="term">Reference manual</span> <span class="body">&#8212; a manual containing
-      information organized in a summary manner.</span></div>
-    <div class="def"><span class="term">Handbook, enchiridion, vade mecum</span> <span class="body">&#8212; a
-      concise reference book providing specific information about a subject or location.</span></div>
+      manual describing the customs of a particular group, especially the ceremonial practices of a monastic
+      order.</span></div>
+    <div class="def"><span class="term">Instruction manual</span> <span class="body">&#8212; a manual
+      accompanying a technical device, explaining how to install or operate it.</span></div>
+    <div class="def"><span class="term">Reference manual</span> <span class="body">&#8212; a manual
+      containing information organized in summary form.</span></div>
+    <div class="def"><span class="term">Handbook, enchiridion, vade mecum</span> <span class="body">&#8212;
+      a concise reference book providing specific information about a subject.</span></div>
     <div class="def"><span class="term">Bible</span> <span class="body">&#8212; a book regarded as
       authoritative in its field.</span></div>
     <div class="def"><span class="term">Guidebook, guide</span> <span class="body">&#8212; something that
-      offers basic information or instruction. <span class="src">WordNet 1.6</span></span></div>
-    <div class="def"><span class="term">Handbook</span> <span class="body">(noun; date: before 12th century)
-      &#8212; 1a: a book capable of being conveniently carried as a ready reference: MANUAL; 1b: a concise
-      reference book covering a particular subject. 2a: a bookmaker&#8217;s book of bets; 2b: a place where
-      bookmaking is carried on. <span class="src">Merriam-Webster</span></span></div>
-    <div class="def"><span class="term">Manual (Church usage)</span> <span class="body">&#8212; 1. a small
-      book for handy use. a. In the mediaeval Church, a book containing the forms to be observed in
-      administration of the sacraments (Late ME). b. A handbook (1533). 2. Nourishment; food divinely
-      supplied, esp. the Holy Communion (late ME). <span class="src">Oxford Dictionary</span></span></div>
+      offers basic information or instruction.</span></div>
   </div>
+
+  <h3 class="import-h">Merriam-Webster</h3>
+  <div class="defs">
+    <div class="def"><span class="term">Handbook</span> <span class="body">(noun; before 12th century)
+      &#8212; a book capable of being conveniently carried as a ready reference; a concise reference book
+      covering a particular subject.</span></div>
+  </div>
+
+  <h3 class="import-h">Oxford English Dictionary</h3>
+  <div class="defs">
+    <div class="def"><span class="term">Manual (Church usage)</span> <span class="body">&#8212; a small book
+      for handy use; in the mediaeval Church, a book containing the forms to be observed in the administration
+      of the sacraments (Late ME); also <em>nourishment</em> &#8212; food divinely supplied, especially the
+      Holy Communion (Late ME).</span></div>
+  </div>
+
+  <div class="callout wine"><div class="clabel">In a word</div>
+  <p>So a manual is at once handbook, custom-book, and &#8212; in the Church &#8212; a book of sacred forms
+  and of divine nourishment. This Deacon Manual stands in that line: a handbook to carry, a record of our
+  customs, and an aid to the holy service it describes.</p></div>
 </section>'''
 
 # ============================================================ ATTITUDE =======
@@ -153,6 +168,7 @@ ATTITUDE = '''
 HISTORY = '''
 <section id="s-history">
   <div class="eyebrow">The Office &amp; the Calling</div>
+  <div class="display-word">Deacon</div>
   <h1 class="section-title">The History of the Deacon</h1>
   <div class="title-rule"></div>
   <p>From the Greek <em>diakonos</em>, <em>diakone&#333;</em>, and <em>diakonia</em> &#8212; meaning
@@ -166,6 +182,11 @@ HISTORY = '''
   obedience to Him is spiritual service. Therefore all Christians are deacons, for all are to be actively
   serving Christ and His church; every Christian is to be involved in some form of spiritual service or
   ministry.</p>
+  <div class="deacon-banner">
+    <span class="flourish"></span><span class="diamond"></span>
+    <p class="line">In one form or another,<br>every Christian is a deacon.</p>
+    <span class="diamond"></span><span class="flourish"></span>
+  </div>
   <p>In Romans 12:6&#8211;8 we find that serving is listed as one of the spiritual gifts. Those who
   possess this gift are specially equipped for service, although they may not hold the office of deacon.
   1&nbsp;Corinthians 16:15 tells us of Stephanas, a deacon of the early church, and his family, who were
@@ -234,33 +255,79 @@ QUAL = '''
   </ol>
 
   <h2 class="sub">Definitions from the Text</h2>
-  <p class="note-inline">Reproduced from the sources cited.</p>
+  <p class="note-inline">Each verse is given first, then the words within it, reproduced from the sources cited.</p>
+
+  <div class="scripture">&#8220;Likewise must the deacons be grave, not double-tongued, not given to much wine,
+  not greedy of filthy lucre&#8230;&#8221;<span class="ref">1 Timothy 3:8</span></div>
   <div class="defs">
     <div class="def"><span class="term">Grave</span> <span class="body">&#8212; (Latin) heavy or weighty;
-      dignified, solemn, or sedate. Requiring serious thought; momentous. Dignified and somber in conduct or
-      character. <span class="src">Oxford / American Heritage</span></span></div>
+      dignified, solemn, or sedate.<br>
+      <em>Dignified</em> &#8212; deserving respect; to give honor.<br>
+      <em>Respect</em> &#8212; partiality or favour in regard of persons or things; to regard, consider, take
+      into account; to pay attention to, to observe carefully; to be directed to; to esteem, prize, or value a
+      thing; to refrain from interfering with; a fact or motive which assists, or leads to, the formation of a
+      decision.<br>
+      <em>Solemn</em> &#8212; according to strict rules.<br>
+      <em>Sedate</em> &#8212; quiet, serious, and without strong feelings; to give an amount of sedative.
+      <span class="src">Oxford Dictionary</span></span></div>
+    <div class="def"><span class="term">Grave</span> <span class="body">(adj.; <em>graver, gravest</em>)
+      &#8212; 1. requiring serious thought; momentous (a grave decision in a time of crisis). 2. fraught with
+      danger or harm (a grave wound). 3. dignified and somber in conduct or character (a grave procession).
+      See synonyms at <em>serious</em>. <span class="src">American Heritage Dictionary</span></span></div>
     <div class="def"><span class="term">Not double-tongued</span> <span class="body">&#8212; duplicity of
-      speech; deceitful or insincere in speech. <span class="src">Oxford Dictionary</span></span></div>
+      speech; deceitful or insincere in speech. <em>Duplicity</em> &#8212; the action of being double in action
+      or conduct. <span class="src">Oxford Dictionary</span></span></div>
     <div class="def"><span class="term">Not given to much wine</span> <span class="body">&#8212; something
       that intoxicates or exhilarates. <span class="src">American Heritage Dictionary</span></span></div>
     <div class="def"><span class="term">Not greedy of filthy lucre</span> <span class="body">&#8212; (Greek)
       to enjoy wages, gain, profit, or pecuniary advantage &#8212; now only in the bad sense; gain viewed as a
       low motive for action. <span class="src">Oxford Dictionary</span></span></div>
-    <div class="def"><span class="term">Pure conscience</span> <span class="body">&#8212; <em>pure:</em> free
-      from admixture or adulteration, free from corruption; <em>conscience:</em> the internal recognition of
-      the moral quality of one&#8217;s motives or actions. <span class="src">Oxford Dictionary</span></span></div>
-    <div class="def"><span class="term">Blameless</span> <span class="body">&#8212; free of blame or guilt;
-      innocent.</span></div>
-    <div class="def"><span class="term">Not slanderers</span> <span class="body">&#8212; the utterance of false
-      statements concerning a person, or malicious misrepresentation of his or her action, in order to defame
-      or injure. <span class="src">Oxford Dictionary</span></span></div>
   </div>
 
+  <div class="callout"><div class="clabel">Word History &#183; filthy lucre</div>
+  <p>When William Tyndale translated <em>aiskhron kerdos</em> (&#8220;shameful gain,&#8221; Titus 1:11) as
+  <em>filthy lucre</em> in his edition of the Bible, he tarred the word <em>lucre</em> for the rest of its
+  existence. Yet we cannot lay the pejorative sense entirely at Tyndale&#8217;s door; he was a strong link in a
+  process begun long before, with the Latin <em>lucrum</em> (&#8220;material gain, profit&#8221;). The process
+  was driven by the conjunction of profit, especially monetary profit, with evils such as greed: in Latin
+  <em>lucrum</em> also meant &#8220;avarice,&#8221; and in Middle English <em>lucre</em>, besides
+  &#8220;monetary gain, profit,&#8221; meant &#8220;illicit gain.&#8221; Tyndale merely helped the process
+  along when he gave us the phrase <em>filthy lucre</em>. <span class="src">American Heritage Dictionary</span></p></div>
+
+  <div class="scripture">&#8220;Holding the mystery of the faith in a pure conscience.&#8221;<span class="ref">1 Timothy 3:9</span></div>
+  <div class="defs">
+    <div class="def"><span class="term">Pure</span> <span class="body">&#8212; free from admixture or
+      adulteration; free from corruption. <span class="src">Oxford Dictionary</span></span></div>
+    <div class="def"><span class="term">Conscience</span> <span class="body">&#8212; the internal recognition
+      of the moral quality of one&#8217;s motives or actions. <span class="src">Oxford Dictionary</span></span></div>
+  </div>
+
+  <div class="scripture">&#8220;And let these also first be proved; then let them use the office of a deacon,
+  being found blameless.&#8221;<span class="ref">1 Timothy 3:10</span></div>
+  <h3 class="minor">And let these also first be proved</h3>
   <div class="quote">&#8220;Now, you have said, &#8216;Let these first be tried, and see if they desire this
   office.&#8217; Within a few weeks, God willing, I will return back to lay hands upon this group of men to
-  make them the official trustee&#8212;or the deacons of this church, and treasurer. Let us bow our heads
-  just a moment.&#8221;
+  make them the official trustee&#8212;or the deacons of this church, and treasurer. Let us bow our heads just
+  a moment.&#8221;
   <span class="qsrc">58-0720E &#183; The Placing Of Deacons &#183; Rev. William Marrion Branham &#183; para. 31</span></div>
+  <div class="defs">
+    <div class="def"><span class="term">Blameless</span> <span class="body">&#8212; free of blame or guilt;
+      innocent.</span></div>
+  </div>
+
+  <div class="scripture">&#8220;Even so must their wives be grave, not slanderers, sober, faithful in all
+  things.&#8221;<span class="ref">1 Timothy 3:11</span></div>
+  <div class="defs">
+    <div class="def"><span class="term">Wives be grave</span> <span class="body">&#8212; the same as the
+      husband (verse 8).</span></div>
+    <div class="def"><span class="term">Not slanderers</span> <span class="body">&#8212; the utterance of
+      false statements or reports concerning a person, or malicious misrepresentation of his or her action, in
+      order to defame or injure. <span class="src">Oxford Dictionary</span></span></div>
+    <div class="def"><span class="term">Sober</span> <span class="body">&#8212; of sober mind;
+      self-controlled; rational, sensible.</span></div>
+    <div class="def"><span class="term">Faithful in all things</span> <span class="body">&#8212; full of
+      faith.</span></div>
+  </div>
 </section>'''
 
 # ============================================================ REWARDS ========

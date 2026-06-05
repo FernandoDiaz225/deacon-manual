@@ -402,3 +402,93 @@ h3.import-h{ font-family:"Poppins",sans-serif; font-weight:600; font-size:10pt;
 .pp1 section{ page: part1; }
 .pp2 section{ page: part2; }
 .pp3 section{ page: part3; }
+
+/* ============================================================
+   Decorative display word + pull-quote banner (History of the Deacon)
+   ============================================================ */
+.display-word{
+  font-family:"EB Garamond", Georgia, serif; font-weight:600;
+  font-size:76pt; line-height:.95; letter-spacing:.5pt;
+  color:var(--wine); margin:0 0 2pt; text-shadow:3px 3px 0 var(--rule-soft);
+}
+.deacon-banner{
+  display:flex; align-items:center; justify-content:center;
+  gap:16pt; margin:22pt 0 16pt; break-inside:avoid;
+}
+.deacon-banner .flourish{ flex:1; max-width:150pt; height:1px; background:var(--gold); }
+.deacon-banner .diamond{ width:6pt; height:6pt; background:var(--gold); transform:rotate(45deg); flex:none; }
+.deacon-banner .line{
+  font-family:"EB Garamond", Georgia, serif; font-style:italic; font-weight:600;
+  font-size:21pt; line-height:1.25; text-align:center; color:var(--wine);
+  margin:0; text-shadow:2px 2px 0 var(--rule-soft);
+}
+
+/* ============================================================
+   Decorative display word + pull-quote banner (History of the Deacon)
+   ============================================================ */
+.display-word{
+  font-family:"EB Garamond", Georgia, serif; font-weight:600;
+  font-size:76pt; line-height:.95; letter-spacing:.5pt;
+  color:var(--wine); margin:0 0 2pt; text-shadow:3px 3px 0 var(--rule-soft);
+}
+.deacon-banner{
+  display:flex; align-items:center; justify-content:center;
+  gap:16pt; margin:22pt 0 16pt; break-inside:avoid;
+}
+.deacon-banner .flourish{ flex:1; max-width:150pt; height:1px; background:var(--gold); }
+.deacon-banner .diamond{ width:6pt; height:6pt; background:var(--gold); transform:rotate(45deg); flex:none; }
+.deacon-banner .line{
+  font-family:"EB Garamond", Georgia, serif; font-style:italic; font-weight:600;
+  font-size:21pt; line-height:1.25; text-align:center; color:var(--wine);
+  margin:0; text-shadow:2px 2px 0 var(--rule-soft);
+}
+
+/* ============================================================
+   Placing of Deacons — inline gloss, annotation blocks, indented Scripture
+   ============================================================ */
+.transcript .inline-gloss{ font-style:italic; font-size:8.5pt; color:var(--wine-deep); }
+.transcript .inline-gloss::before{ content:"["; color:var(--gold); font-style:normal; }
+.transcript .inline-gloss::after{ content:"]"; color:var(--gold); font-style:normal; }
+.transcript .inline-gloss .gw{
+  font-family:"Cinzel", serif; font-style:normal; font-size:7.5pt;
+  letter-spacing:.06em; text-transform:uppercase; color:var(--wine);
+}
+.annot{
+  margin:10pt 0 12pt; padding:8pt 12pt; background:var(--cream-2);
+  border:0.5pt solid var(--rule-soft); border-left:3pt solid var(--gold);
+  border-radius:3pt; break-inside:avoid;
+}
+.annot-row{ margin:0 0 6pt; }
+.annot-row:last-child{ margin-bottom:0; }
+.annot .aw{
+  font-family:"Cinzel", serif; font-size:9pt; letter-spacing:.05em;
+  text-transform:uppercase; color:var(--wine); display:block; margin-bottom:1pt;
+}
+.annot .ad{ font-size:9.5pt; line-height:1.45; color:var(--ink); display:block; }
+.scripture-indent{
+  margin:8pt 26pt; padding:4pt 0; font-style:italic;
+  color:var(--wine-deep); line-height:1.5; text-align:justify;
+}
+
+/* ============================================================
+   Epigraph page (front matter) — bilingual opening
+   ============================================================ */
+.epigraph-page{ break-before:page; break-after:page; padding:96pt 64pt 0; text-align:center; }
+.epi-kicker{
+  font-family:"Cinzel", serif; font-weight:600; font-size:11pt;
+  letter-spacing:.16em; text-transform:uppercase; color:var(--gold); margin:0 0 40pt;
+}
+.epi-block{ margin:0 auto; max-width:380pt; }
+.epi-quote{
+  font-family:"EB Garamond", Georgia, serif; font-style:italic; font-size:14.5pt;
+  line-height:1.5; color:var(--ink); text-align:justify; margin:0 0 10pt;
+}
+.epi-quote.es{ color:var(--wine-deep); }
+.epi-src{
+  font-family:"Poppins", sans-serif; font-weight:600; font-size:8.5pt;
+  letter-spacing:.08em; text-transform:uppercase; color:var(--wine);
+  text-align:right; margin:0;
+}
+.epi-div{ display:flex; align-items:center; justify-content:center; gap:12pt; margin:30pt auto; max-width:300pt; }
+.epi-div span{ flex:1; height:1px; background:var(--gold-soft); }
+.epi-div span.d{ flex:none; width:6pt; height:6pt; background:var(--gold); transform:rotate(45deg); }
